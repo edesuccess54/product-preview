@@ -42,4 +42,4 @@ Users should be able to:
 
 - Website - [Ede O Success](https://productppreview.netlify.app)
 - Frontend Mentor - [@edesuccess54](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.frontendmentor.io/profile/edesuccess54)
+- Twitter - [@mansucsex](https://twitter.com/mansucsex)
